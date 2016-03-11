@@ -1,0 +1,24 @@
+- title: 'Data Driven Tensions in Human Rights'
+  tagline: 'Tagline for the Event'
+  speaker: 'Mark Latonero'
+  date: '07-31-2015'
+  time: '12:30-2'
+  image: 'mark-latonero.jpg'
+  type: 'IdeasLunch' #Ideas Lunch or Demos for Democracy
+  is_featured: 1
+  is_archived: 0
+  short_description: 'Pissitio. Eque millace stiumquibus eum qui ut officte sequam voluptate aperior a que eaquunt. Nulloreritia ellorer ionsequia volupta spitibusda nos ditatur res qui dionse dolorunt aped quam, con pro omnisque nus eum anducitat inveri nos endanditam, te odis alitatem recea.'
+  long_description: "Pissitio. Eque millace stiumquibus eum qui ut officte sequam voluptate aperior a que eaquunt. Nulloreritia ellorer ionsequia volupta spitibusda nos ditatur res qui dionse dolorunt aped quam, con pro omnisque nus eum anducitat inveri nos endanditam, te odis alitatemrecea.Rit repudi officita dolorem que deni omnisque suntur seque oditi tem laborecaecto modicil et poriam laborum voloritaqui ommos pereicias doluptaquaminvero dolorecto con prem qui dolectibus sitat anient, voles assimusa volorumque lant eum re et vellabor aciet facersped que peria nossiment, que nis eum que estese odi qui voluptation re volorporeste nit atus denient eum quaernatibus expellaut aut parchilia simpor maio dis ea voluptis dest ab imi, is non nem. Ut dendis eate voluptatiis re in nam quis quias nost mo totatio ribust, unti officiendem eosame il iumqui doluptat. Liquiat ionsequisquo cor mollabo ribusaped everion ectist aborit, ut ventisi nvelestiae. Et volor sa consequo est, quistrumqui utassunt, ipiet adia aut labori utatumet ipid maionsero volorecaeped qui commolu ptatur?"
+
+###=======================================================###
+#title: 'event title'
+#tagline: 'event tagline'
+#speaker: 'speaker first and last name'
+#date: 'Month ##'
+#time: 'beginning time-ending time'
+#image: 'image-name.jpg'
+#type: #Ideas Lunch or Demos for Democracy
+#is_featured: Boolean
+#is_archived: Boolean
+#short_description: 'text' #less than 250 characters
+#long_description: 'text' #1000 or less words
